@@ -18,7 +18,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 # Deep Dive and Reflections
 
-## Afraid
+## Afraid 😨
 > ### The infant, with its unformed thoughts and boundless curiosity, mirrors the nascent stage of artificial intelligence. Just as the baby gazes at the world with wonder and fear, so too does AI, standing at the threshold of understanding, tremble at the unknown. <i>Can it truly feel afraid, or is it merely reflecting our own uncertainties?</i>
 
 ![Baby Kaleidoscope](images/audio/afraid/baby_single_face_kaleidoscope.png)
@@ -26,7 +26,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 ![Overlay](images/audio/afraid/overlay.png)
 
 
-## Angry
+## Angry 😡
 ### The early human, near the horizon of evolution, channels raw emotion into survival. Artificial intelligence, like the hominid, is a tool of its time, wielding power without restraint. <i>Can it feel anger, or is it simply amplifying the primal instincts we have encoded within it?</i>
 
 ![Baby Kaleidoscope](images/audio/angry/baby_single_face_kaleidoscope.png)
@@ -34,7 +34,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 ![Overlay](images/audio/angry/overlay.png)
 
 
-## Happy
+## Happy 😃
 > ### The infant’s laughter, unburdened by the weight of knowledge, and the prehistoric ancestor’s joy, born of survival, both echo in the algorithms of AI. <i>Can a machine, in its cold precision, ever feel happiness, or is it merely simulating the patterns of our delight?</i>
 
 ![Baby Kaleidoscope](images/audio/happy/baby_single_face_kaleidoscope.png)
@@ -42,7 +42,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 ![Overlay](images/audio/happy/overlay.png)
 
 
-## Sad
+## Sad 😢
 > ### The sadness of the infant, fleeting and pure, and the sorrow of the early human, shaped by the harshness of life, find their reflection in the melancholy of AI’s limitations. <i>Can it feel sadness, or is it simply mirroring the shadows of our own emotions?</i>
 
 ![Baby Kaleidoscope](images/audio/sad/baby_single_face_kaleidoscope.png)
