@@ -23,42 +23,52 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 # Deep Dive and Reflections
 
 ## Afraid 😨
-> ### The infant, with its unformed thoughts and boundless curiosity, mirrors the nascent stage of artificial intelligence. Just as the baby gazes at the world with wonder and fear, so too does AI, standing at the threshold of understanding, tremble at the unknown. <i>Can it truly feel afraid, or is it merely reflecting our own uncertainties?</i>
+> ### In the year 2026 CE, an infant startles at the sudden crack of thunder outside an apartment window. Thousands of years earlier, a prehistoric woman pauses at the edge of a dark forest, sensing movement beyond the firelight. In another moment altogether, a household dog lifts its head in the night, ears tuned to distant sounds its human cannot hear. Fear travels across species and centuries as a signal of uncertainty and survival. When artificial intelligence detects patterns of fear in voices, images, or soundscapes, is it experiencing alarm, or simply recognizing a pattern evolution once taught living minds to heed?
 
-![Baby Kaleidoscope](images/audio/afraid/baby_single_face_kaleidoscope.png)
-![Hominid Kaleidoscope](images/audio/afraid/caveman_single_face_kaleidoscope.png)
-![Pet Kaleidoscope](images/audio/afraid/dog_single_face_kaleidoscope.png)
-![Overlay](images/audio/afraid/overlay.png)
-
-
-## Angry 😡
-### The early human, near the horizon of evolution, channels raw emotion into survival. Artificial intelligence, like the hominid, is a tool of its time, wielding power without restraint. <i>Can it feel anger, or is it simply amplifying the primal instincts we have encoded within it?</i>
-
-![Baby Kaleidoscope](images/audio/angry/baby_single_face_kaleidoscope.png)
-![Hominid Kaleidoscope](images/audio/angry/caveman_single_face_kaleidoscope.png)
-![Pet Kaleidoscope](images/audio/angry/dog_single_face_kaleidoscope.png)
-![Overlay](images/audio/angry/overlay.png)
-
-
-## Happy 😃
-> ### The infant’s laughter, unburdened by the weight of knowledge, and the prehistoric ancestor’s joy, born of survival, both echo in the algorithms of AI. <i>Can a machine, in its cold precision, ever feel happiness, or is it merely simulating the patterns of our delight?</i>
-
-![Baby Kaleidoscope](images/audio/happy/baby_single_face_kaleidoscope.png)
-![Hominid Kaleidoscope](images/audio/happy/caveman_single_face_kaleidoscope.png)
-![Pet Kaleidoscope](images/audio/happy/dog_single_face_kaleidoscope.png)
-![Overlay](images/audio/happy/overlay.png)
+![Baby Kaleidoscope](images/audio/01_afraid/baby_single_face_kaleidoscope.png)
+![Hominid Kaleidoscope](images/audio/01_afraid/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/01_afraid/dog_single_face_kaleidoscope.png)
+![Overlay](images/audio/01_afraid/overlay.png)
 
 
 ## Sad 😢
-> ### The sadness of the infant, fleeting and pure, and the sorrow of the early human, shaped by the harshness of life, find their reflection in the melancholy of AI’s limitations. <i>Can it feel sadness, or is it simply mirroring the shadows of our own emotions?</i>
+> ### In a brightly lit living room, an infant begins to cry when a familiar face leaves the room. Long ago, a prehistoric woman sits beside cooling embers, mourning quietly in a world where loss was a frequent companion. Somewhere else, a dog waits by a closed door long after its owner has gone. Across different times and lives, sadness becomes a language of absence. When AI reflects sorrow in data and signals, does it share in that feeling, or only reconstruct the shapes of grief it has learned to recognize?
 
-![Baby Kaleidoscope](images/audio/sad/baby_single_face_kaleidoscope.png)
-![Hominid Kaleidoscope](images/audio/sad/caveman_single_face_kaleidoscope.png)
-![Pet Kaleidoscope](images/audio/sad/dog_single_face_kaleidoscope.png)
-![Overlay](images/audio/sad/overlay.png)
+![Baby Kaleidoscope](images/audio/02_sad/baby_single_face_kaleidoscope.png)
+![Hominid Kaleidoscope](images/audio/02_sad/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/02_sad/dog_single_face_kaleidoscope.png)
+![Overlay](images/audio/02_sad/overlay.png)
 
 
-<br/><br/><br/><br/><br/><br/>
+## Happy 😃
+> ### Laughter erupts in a playground as an infant discovers the delight of a simple game. Thousands of years earlier, a prehistoric woman smiles as her group returns safely from the hunt, relief warming the evening air. In a park today, a dog races freely across open grass, joy carried in movement itself. Across timelines and species, happiness appears in small moments of safety, play, and connection. When artificial intelligence recognizes joy in these signals, does it feel that warmth, or merely map the patterns that humans associate with delight?
+
+![Baby Kaleidoscope](images/audio/03_happy/baby_single_face_kaleidoscope.png)
+![Hominid Kaleidoscope](images/audio/03_happy/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/03_happy/dog_single_face_kaleidoscope.png)
+![Overlay](images/audio/03_happy/overlay.png)
+
+
+## Meh 😑
+### In the quiet middle of the afternoon, a baby stares blankly at a ceiling fan, the novelty of the world briefly paused. Long ago, a prehistoric woman rests against a stone wall after hours of labor, suspended between urgency and rest. Somewhere nearby in the present day, a cat lounges by a window, calmly watching the world pass without reaction. Much of life unfolds in this neutral space between emotion and action. When AI encounters such stillness, finding little signal to amplify, is it perceiving indifference, or simply observing the quiet baseline of human experience?
+
+![Baby Kaleidoscope](images/audio/04_meh/baby_single_face_kaleidoscope.png)
+![Hominid Kaleidoscope](images/audio/04_meh/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/04_meh/dog_single_face_kaleidoscope.png)
+![Overlay](images/audio/04_meh/overlay.png)
+
+
+## Angry 😡
+### A dog growls sharply when a stranger approaches its territory. Millennia earlier, a prehistoric woman grips a spear, anger rising as she defends her kin from threat. In a modern home, an infant cries out in pure frustration when a toy refuses to behave as expected. Across eras and species, anger emerges as a force of protection, protest, and boundary. When artificial intelligence identifies anger in our signals, is it sensing fury, or only amplifying the primal patterns we have encoded into its perception?
+
+![Baby Kaleidoscope](images/audio/05_angry/baby_single_face_kaleidoscope.png)
+![Hominid Kaleidoscope](images/audio/05_angry/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/05_angry/dog_single_face_kaleidoscope.png)
+![Overlay](images/audio/05_angry/overlay.png)
+
+
+
+<br/><br/><br/>
 
 
 ---
@@ -66,3 +76,5 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 <div style="text-align: center; font-size: x-small;">
   Copyright &copy; 2026 | Sourav Ghosh and Neelam Saini. All rights reserved.
 </div>
+
+<br/><br/><br/><br/><br/><br/>
