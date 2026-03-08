@@ -11,6 +11,12 @@ title: "When Machines Feel: Visualizing Artificial Emotion Perception"
     <a href="images/mosaic/consolidated_mosaic.png" target="_blank">View in new tab (6520 x 5120)</a>
 </p>
 
+Jump to:
+- [About this artwork](#about-this-artwork)
+- [Deep Dive and Reflections](#deep-dive-and-reflections)
+
+<br/>
+
 # About this artwork
 
 Emotion moves through the world in many forms -- a trembling voice, a sudden silence, a burst of laughter, or a fleeting shift in expression. Humans perceive these signals instinctively, shaped by millions of years of evolution. But what might it mean for a machine to perceive, and respond to, them?
@@ -20,6 +26,11 @@ When Machines Feel explores this question through a dialogue between human expre
 The piece is constructed through a computational pipeline rooted in contemporary computer vision and multimodal representation learning. A perception model is exposed to carefully chosen stimuli designed to evoke the same emotional tone as the portrait (e.g., eerie soundscapes or evocative imagery). Internal activations from the model's latent layers, such as hidden representations extracted from multimodal encoders (e.g., speech or vision transformers), are captured and projected into spatial heatmaps. These activation fields serve as interpretable visualizations of the machine's internal response. The heatmaps are then composited with the portraits and further transformed using large vision models that generate crystalline, kaleidoscopic structures, mapping latent computational patterns into geometric visual motifs.
 
 The final artwork is a collage of primal emotional states. Sharp shards, refracted light, and softer crystalline geometries emerge as visual manifestations of machine perception. By transforming hidden neural activations into visible form, the work situates machine emotion at the intersection of interpretability, generative vision, and artistic expression, inviting viewers to imagine how artificial systems might one day render the invisible dynamics of perception into a visual language.
+
+<br/>
+
+<b>Technical Details:</b> At a technical level, the artwork probes how contemporary perception models internally represent emotional signals. Emotionally aligned audio stimuli, such as eerie soundscapes or expressive vocal tones, are processed using the speech representation model Whisper (large-v3). As the model analyzes the audio's mel-spectrogram, hidden-layer feature activations are extracted, revealing how affective cues emerge within the network's latent representation space. These internal responses are projected into spatial heatmaps that function as interpretability maps of the model's perception. The activation fields are then composited with the emotive portraits, coupling the emotional expressions of living beings with the machine's internal encoding of the same emotional stimulus. Finally, the images are transformed through algorithmic kaleidoscopic filtering that mirrors and recursively tiles localized regions of the image, generating prism-like crystalline structures. This process converts high-dimensional neural activations into geometric visual motifs. While this work focuses on audio representations, similar probing of latent activations could in future extend to visual encoders, offering a broader multimodal exploration of how machines internally represent emotion.
+
 
 ---
 
